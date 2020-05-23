@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LAB5</string>
+    <string name="un">User Name</string>
+    <string name="pw">Password</string>
+    <string name="slctall">Select All</string>
+    <string name="Add" translatable="false">Add</string>
+    <string name="signin">SIGN IN</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="upsearch">edit search</string>
+    <string name="list">USer List</string>
+
+
+</resources>
